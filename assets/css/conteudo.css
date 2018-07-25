@@ -1,0 +1,15 @@
+.ambiente-area{
+    width: 100%;
+    height: 100vh;
+    background: url("../img/ambiente/ambiente.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.drinks-area{
+    width: 100%;
+    height: 100vh;
+    background: url("../img/ambiente/bar.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
